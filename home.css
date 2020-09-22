@@ -21,7 +21,7 @@ article{
 
 #home-office{
     height: 100%;
-    background-image: url("../imagens/home-office.jpeg");
+    background-image: url("home-office.jpeg");
     background-size: cover;
     background-position: center center; 
 }
@@ -34,7 +34,7 @@ article{
 .wallpaper{
     height: 100vh;
     margin: 0; padding: 0;
-    background-image: url("../imagens/wallpaper-lateral.png");
+    background-image: url("wallpaper-lateral.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
